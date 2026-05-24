@@ -17,9 +17,7 @@ La documentación del proyecto se encuentra disponible en [adk.dev](https://adk.
 pip install google-adk 
 ```
 
-```
 
-```
 ### Mi primer agente
 
 En este momento y por practicidad usaremos un llm propio de Google, por lo cual es necesario obtener un "GEMINI_API_KEY" que se almacena en el archivo .env
